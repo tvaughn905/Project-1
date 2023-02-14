@@ -62,7 +62,11 @@ Social
 
 Life Expectancy
 
-![](Figure_File/Health%20(2015-2019).png)
+ <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2015-2019).png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2022).png" width=40% height=40%>
+
+
+
+
 
 
 Freedom
