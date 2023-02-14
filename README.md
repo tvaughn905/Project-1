@@ -1,5 +1,5 @@
 
-   ![](Images/Project%20Banner.png)
+   <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/Project%20Banner.png" width=125% height=125%>
 
 
 # Discovering the Best Places to Retire
