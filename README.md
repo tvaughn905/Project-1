@@ -1,5 +1,13 @@
-Project Title
-Project Description
+
+![](Images/Project Banner)
+
+Project Title: Happiness Project 1 (temporary)
+
+Project Description/Outline
+
+Comparing countries happiness throughout the Covid years. Pre and post information. Creating a forecast from 2015 – 2019 data, then running correlations to the most recent years, including 2021 and 2022.
+
+
 # What was the motivation
 # Why did we build this project
 # What problem does it solve
