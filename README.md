@@ -39,6 +39,21 @@ What makes the project standout?
 
 
 
+# Contributing Factors Analysis
+
+Economy
+
+Social
+
+Life Expectancy
+
+Freedom
+
+Corruption
+
+Generosity
+
+
 
 
 
