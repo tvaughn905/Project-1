@@ -53,7 +53,10 @@ Economy
 Social
 
 
-<img(Figure_File/Family_2015-19.png)                            ![](Figure_File/Family_2022.png)
+<img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2015-19.png" width=40% height=40%>   <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2022.png" width=40% height=40%>  
+
+
+
 
 
 
