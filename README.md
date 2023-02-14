@@ -51,13 +51,13 @@ Economy
 Social
 
 
-![](Figure_File/Family_2015-19.png)                            ![](Figure_File/Family_2022.png)
+<img(Figure_File/Family_2015-19.png)                            ![](Figure_File/Family_2022.png)
 
 
 
 Life Expectancy
 
-![](Figure_File/Health%20(2015-2019).png 
+![](Figure_File/Health%20(2015-2019).png)
 
 
 Freedom
