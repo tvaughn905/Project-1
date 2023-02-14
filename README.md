@@ -43,9 +43,22 @@ What makes the project standout?
 
 Economy
 
+
+![](Figure_File/Economy1.png)                                  ![](Figure_File/Economy2.png)
+
+
+
 Social
 
+
+![](Figure_File/Family_2015-19.png)                            ![](Figure_File/Family_2022.png)
+
+
+
 Life Expectancy
+
+![](Figure_File/Health%20(2015-2019).png 
+
 
 Freedom
 
