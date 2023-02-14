@@ -44,7 +44,9 @@ What makes the project standout?
 Economy
 
 
-![](Figure_File/Economy1.png)                                  ![](Figure_File/Economy2.png)
+<img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy2.png" width=40% height=40%>  
+
+                                
 
 
 
