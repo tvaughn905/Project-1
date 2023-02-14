@@ -1,5 +1,5 @@
 
-![image]([Images/Project Banner](https://github.com/tvaughn905/Project-1/blob/main/Images/Project%20Banner.png)
+![image]([Images/Project Banner](https://github.com/tvaughn905/Project-1/blob/main/Images/Project%20Banner.png))
 
 Project Title: Happiness Project 1 (temporary)
 
