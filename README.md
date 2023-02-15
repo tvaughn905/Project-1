@@ -57,7 +57,9 @@ Social
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2015-19.png" width=40% height=40%>   <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2022.png" width=40% height=40%>  
 
+This analysis source of data is from Kaggle for 2015-19 and the World Happiness Report for 2022. To be able to use the data, it had to be cleaned to elimiate any "NAN" columns and merge 2015-19 data along with assuring headers were consistant. It was found that Family was used as the header for this factor up until 2017 and then the headers changed to Social Support, but also changed again for the 2022 data with additional wording for this header. To assure naming consistancy, all headers were named the ame through all years. 
 
+After the output of a clean data file was created, for the overall "Happiness Score", a dataframe had to be used to output the mean of 2015-19 to only work with those columns. There was also a need to use code to flip the data sets for ease of output. The same had to be done for the Social Support factor data sets. Scatter plots were used to out put a visual as to show a correlation between Social Support and Happines and how strong is the correlation. The same format and coding was used to output a visual for 2022.
 
 
 
@@ -105,11 +107,17 @@ in this loop the r-value, pvalue, and slope intercept is calculated and printed
 last , loop through the Overall Happiness Research, find the top 5 Overall Happy countries for the data sets for 2015-2019 and for 2022
 
 
+# Top 5 Countries To Retire in 2027
+
+Based on the analysis, a forecast was created to output what 5 countries would ideally be the best places to retire in 2027 based on historical data. 
+
+<img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013.PNG" width=50% height=50%>
+
 # Weather as a Factor For 2027 Retirement
 
 Using "OpenWeatherMap" API, we were able to source a code to create a weather app to be able to look up weather in the top 5 countries real time. This tool can be used daily or seasonal just to get a sense of if the weather can influence the decision to retire in one of these countries.
 
-To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the key from a text file that shuold be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter the country in the text field. The outcome is below. 
+To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the key from a text file that shuold be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter the country in the text field. The code is located in "Weatherpy" directory and the outcome is below. 
 
  <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013.PNG" width=50% height=50%>
 
