@@ -119,7 +119,7 @@ For generosity there is not much correlation to overall happiness, strangely the
 
 # Top 5 Countries To Retire To in 2027
 
-Based on the analysis, a forecast was created to output what 5 countries would ideally be the best places to retire in 2027 based on historical data. 
+Based on the analysis, a forecast was created to output what 5 countries would ideally be the best places to retire in 2027. 
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/Top5_Countries.PNG" width=50% height=50%>
 
