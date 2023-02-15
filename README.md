@@ -15,6 +15,7 @@ Pulling data from the "World Happiness Report" from "kaggle", we will pull the t
  - [kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download (for 2015-2019 data years))
  - [World Happiness Report 2022](https://worldhappiness.report/ed/2022/#appendices-and-data)
  - [Make a Weather App in Python | Weather API | Python Project](https://youtu.be/Sz0_2fp27Q0)
+ - [openweathermap](https://openweathermap.org/api)
 
 
 ## Questions To Be Answered From the Analysis
@@ -104,6 +105,13 @@ in this loop the r-value, pvalue, and slope intercept is calculated and printed
 last , loop through the Overall Happiness Research, find the top 5 Overall Happy countries for the data sets for 2015-2019 and for 2022
 
 
+# Weather as a Factor For 2027 Retirement
+
+Using "OpenWeatherMap" API, we were able to source a code to create a weather app to be able to look up weather in the top 5 countries real time. This tool can be used daily or seasonal just to get a sense of how is the weather and considering if the weather is tolerable enough to still consider retiring in these countries.
+
+To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the kep from a text file that shuld be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter in the country in the text field and 
+
+ <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013" width=50% height=50%>
 
 
 
