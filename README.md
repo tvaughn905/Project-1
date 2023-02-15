@@ -85,6 +85,9 @@ Freedom
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom2.png" width=40% height=40%>
 
+Chart represents the Average Overall Happiness to Freedom factor scores for years 2015-2019. According to the World Happiness Report, the chart represents 
+well the shift in Freedom for a rise with eastern european countries and steady trends for northern countries. Looking at the individual years, 2015 through 2019, Freedom is not the highest factor determining happiness. Freedom moves from last place of the six factors to third from last place in 2019. 
+(according to World Happiness Report website).
 
 Corruption
 
