@@ -91,7 +91,7 @@ Freedom
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom2.png" width=40% height=40%>
 
-** All members of the group used the 2015-2019 and 2022 .csv files (downloaded).
+
 I focused on the columns for measuring the amount of Freedom a country has had in correlation to their happiness levels. 
 
 Description of Data Exploration:  I compiled the “Freedom” component/factor of
