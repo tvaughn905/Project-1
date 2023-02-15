@@ -107,7 +107,7 @@ in this loop the r-value, pvalue, and slope intercept is calculated and printed
 last , loop through the Overall Happiness Research, find the top 5 Overall Happy countries for the data sets for 2015-2019 and for 2022
 
 
-# Top 5 Countries To Retire in 2027
+# Top 5 Countries To Retire To in 2027
 
 Based on the analysis, a forecast was created to output what 5 countries would ideally be the best places to retire in 2027 based on historical data. 
 
