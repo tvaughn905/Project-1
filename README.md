@@ -57,19 +57,12 @@ Social
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2015-19.png" width=40% height=40%>   <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2022.png" width=40% height=40%>  
 
-This analysis source of data is from Kaggle for 2015-19 and the World Happiness Report for 2022. To be able to use the data, it had to be cleaned to elimiate any "NAN" columns and merge 2015-19 data along with assuring headers were consistant. It was found that Family was used as the header for this factor up until 2017 and then the headers changed to Social Support, but also changed again for the 2022 data with additional wording for this header. To assure naming consistancy, all headers were named the ame through all years. 
-
-After the output of a clean data file was created, for the overall "Happiness Score", a dataframe had to be used to output the mean of 2015-19 to only work with those columns. There was also a need to use code to flip the data sets for ease of output. The same had to be done for the Social Support factor data sets. Scatter plots were used to out put a visual as to show a correlation between Social Support and Happines and how strong is the correlation. The same format and coding was used to output a visual for 2022.
-
-
+This factor scored higher amongst all factors except GDP for all years. Iceland remains #1 pre and post Pandemic under this factor. Iceland In 2019, they were #1 on the happiness report. Some contributors are; very peaceful, never had an army, children can go places freely and play outside without supervision and it is illegal to pay women less than men. Also, there is a stronger correlation in 2022 than 2015-19 that this factor influences the Happy Score. Iceland, Denmark and Finland remained in the top 5 for scoring highest in this factor
 
 
 Life Expectancy
 
  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2015-2019).png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2022).png" width=40% height=40%>
-
-
-
 
 
 
@@ -82,11 +75,14 @@ Corruption
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption2.png" width=40% height=40%>
 
+Government trust has a slight correlation to happiness and that correlation has gone down in 2022.
+With GDP correlation to happiness is pretty strong with high GDP countries tending to be happier.
 
 Generosity
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Generosity1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Generosity2.png" width=40% height=40%>
 
+For generosity there is not much correlation to overall happiness, strangely the most generous places are most of the happiest countries and some of the least happiest countries. Most of the countries in between were at or below average generosity.
 
 
 HealthAnalysis Jupyter Notebook
