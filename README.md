@@ -107,11 +107,11 @@ last , loop through the Overall Happiness Research, find the top 5 Overall Happy
 
 # Weather as a Factor For 2027 Retirement
 
-Using "OpenWeatherMap" API, we were able to source a code to create a weather app to be able to look up weather in the top 5 countries real time. This tool can be used daily or seasonal just to get a sense of how is the weather and considering if the weather is tolerable enough to still consider retiring in these countries.
+Using "OpenWeatherMap" API, we were able to source a code to create a weather app to be able to look up weather in the top 5 countries real time. This tool can be used daily or seasonal just to get a sense of if the weather can influence the decision to retire in one of these countries.
 
-To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the kep from a text file that shuld be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter in the country in the text field and 
+To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the key from a text file that shuold be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter the country in the text field. The outcome is below. 
 
- <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013" width=50% height=50%>
+ <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013.PNG" width=50% height=50%>
 
 
 
