@@ -42,6 +42,7 @@ How can we track weather for the top 5 places to retire? Can we create a weather
 
 
 # Contributing Factors Analysis
+** All members of the group used the 2015-2019 and 2022 .csv files (downloaded).**
 
 Economy (GDP)
 
@@ -90,9 +91,17 @@ Freedom
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom2.png" width=40% height=40%>
 
-Chart represents the Average Overall Happiness to Freedom factor scores for years 2015-2019. According to the World Happiness Report, the chart represents 
-well the shift in Freedom for a rise with eastern european countries and steady trends for northern countries. Looking at the individual years, 2015 through 2019, Freedom is not the highest factor determining happiness. Freedom moves from last place of the six factors to third from last place in 2019. 
-(according to World Happiness Report website).
+** All members of the group used the 2015-2019 and 2022 .csv files (downloaded).
+I focused on the columns for measuring the amount of Freedom a country has had in correlation to their happiness levels. 
+
+Description of Data Exploration:  I compiled the “Freedom” component/factor of
+the 2015, 2016, 2017, 2018 and 2019 data, cross-checking it with countries listed in
+the data set who have a recorded “level” of happiness.  Also did cross-checking on 
+the 2022 yearly report of happiness data to freedom “levels” as well. 
+
+Data Analysis:  I created dataframes and used a “clean” version of the 
+merged .csv files that was jointly used by all members of the team.  Duplicate and “NaN” data was dropped out of the dataset. I created a dataframe of the “clean” combined .csv file, gathering the “Freedom 2015, 2016, 2017, 2018, 2019 and 2022” data columns.  I created a second dataframe gathering the columns marked for “Happiness Score” for the years 2015, 2016, 2017, 2018, 2019 and 2022; also grabbing the “Country” names. Next, I created data loops going through country by country, year by year, a listing of the happiest freedom level countries, and also the worst of bottom of the list. I captured the percentage rates. I then created bar charts for each calendar year, showing the trend of “Happiness” and “Freedom” scores broken down by year, visually. Next, I created scatter plots with the same data and included the regression line for each; again, year by year. Freedom versus Overall Happiness scores. Next, I created a second .ipnyb file where the original same combined, “cleaned” .csv data set was used, for the years (2015-2019), as one combined unit.  I found the average, (a/k/a “mean” scores for both “x”=Overall Happiness and “y”=”Average Freedom” scores.I created a scatter plot, showing the combined averages of “Overall Happiness” to “Freedom” scores and how they appear with a regressions line. A second scatter plot was also created, in a similar manner, but just with the 2022 data. I noticed the same 5 top countries kept appearing as the “Happiest for Freedom” of the bunch. They are (in order): Switzerland, Iceland, Denmark, Norway and Canada. Limitations of the dataset for future consideration:  I think this should be a combined group response.
+
 
 
 
