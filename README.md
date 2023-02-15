@@ -13,6 +13,8 @@ Pulling data from the "World Happiness Report" from "kaggle", we will pull the t
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download (for 2015-2019 data years))
+ - [World Happiness Report 2022](https://worldhappiness.report/ed/2022/#appendices-and-data)
+ - [Make a Weather App in Python | Weather API | Python Project](https://youtu.be/Sz0_2fp27Q0)
 
 
 ## Questions To Be Answered From the Analysis
@@ -31,11 +33,10 @@ Are people happier in the pre or post Covid years?  Why? Why not?
 Which countries will be the best places to live in the next decade and why? 
 
 #### Question 5: 
-Top 10? places to retire in 2023? Forecasted within the next 10 years? By 
-2033?
+What are the Top 5 places forecasted to retire in 2027? 
 
 #### Question 6: 
-Tie in weather API for retirement places.
+How can we track weather for the top 5 places to retire? Can we create a weather app and track weather?
 
 
 
