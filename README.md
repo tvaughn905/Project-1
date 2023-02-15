@@ -45,9 +45,9 @@ How can we track weather for the top 5 places to retire? Can we create a weather
 
 Economy (GDP)
 
-
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy2.png" width=40% height=40%>  
 
+With GDP correlation to happiness, it is pretty strong with high GDP countries tending to be happier. Thsi was no surprise and the it is the #factor when considering overall happiness.
                                 
 
 
