@@ -60,6 +60,8 @@ Social
 This factor scored higher amongst all factors except GDP for all years. Iceland remains #1 pre and post Pandemic under this factor. Iceland In 2019, they were #1 on the happiness report. Some contributors are; very peaceful, never had an army, children can go places freely and play outside without supervision and it is illegal to pay women less than men. Also, there is a stronger correlation in 2022 than 2015-19 that this factor influences the Happy Score. Iceland, Denmark and Finland remained in the top 5 for scoring highest in this factor
 
 
+
+
 Healthy Life Expectancy
 
  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2015-2019).png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Health%20(2022).png" width=40% height=40%>
@@ -81,6 +83,9 @@ loop through the Health Happiness data for the data sets for 2015-2019 and for 2
 in this loop the r-value, pvalue, and slope intercept is calculated and printed
 last , loop through the Overall Happiness Research, find the top 5 Overall Happy countries for the data sets for 2015-2019 and for 2022
 
+
+
+
 Freedom
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Freedom2.png" width=40% height=40%>
@@ -89,12 +94,18 @@ Chart represents the Average Overall Happiness to Freedom factor scores for year
 well the shift in Freedom for a rise with eastern european countries and steady trends for northern countries. Looking at the individual years, 2015 through 2019, Freedom is not the highest factor determining happiness. Freedom moves from last place of the six factors to third from last place in 2019. 
 (according to World Happiness Report website).
 
+
+
+
 Corruption
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption2.png" width=40% height=40%>
 
 Government trust has a slight correlation to happiness and that correlation has gone down in 2022.
 With GDP correlation to happiness is pretty strong with high GDP countries tending to be happier.
+
+
+
 
 Generosity
 
