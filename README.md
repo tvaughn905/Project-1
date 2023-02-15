@@ -16,6 +16,7 @@ Pulling data from the "World Happiness Report" from "kaggle", we will pull the t
  - [World Happiness Report 2022](https://worldhappiness.report/ed/2022/#appendices-and-data)
  - [Make a Weather App in Python | Weather API | Python Project](https://youtu.be/Sz0_2fp27Q0)
  - [openweathermap](https://openweathermap.org/api)
+ - [what_we_can_learn_about_happiness_from_iceland](https://greatergood.berkeley.edu/article/item/what_we_can_learn_about_happiness_from_iceland)
 
 
 ## Questions To Be Answered From the Analysis
@@ -58,7 +59,9 @@ Social
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2015-19.png" width=40% height=40%>   <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Family_2022.png" width=40% height=40%>  
 
-This factor scored higher amongst all factors except GDP for all years. Iceland remains #1 pre and post Pandemic under this factor. Iceland In 2019, they were #1 on the happiness report. Some contributors are; very peaceful, never had an army, children can go places freely and play outside without supervision and it is illegal to pay women less than men. Also, there is a stronger correlation in 2022 than 2015-19 that this factor influences the Happy Score. Iceland, Denmark and Finland remained in the top 5 for scoring highest in this factor
+Along with the team, using DataFrame was the best way to go with to organize the data. Files used for 2015-19 data was from Kaggle and needed to be cleaned more due to the fact that the headings for this factor changed in 2017 and changed again in 2022. For uniformity, all headers for this factor was changed to "Family. With changing the headers and pulling out "NAN" rows, new merged data decreased to 116 countries. Using Dataframe to organie the data and flip, I was able to pull 2015-19 "Family" columns and output the mean for those years. The same structure was used for 2022 data. The visual used was scatter plots as to see how strong the correlation was to happiness. 
+
+Results: This factor scored higher amongst all factors except GDP for all years. The coefficient of correlation is strong for 2015-19 and 2022. Iceland remains #1 pre and post Pandemic under this factor. Iceland in 2019, was #1 on the happiness report. Some contributors for a high score according to, (Guðmundsdóttir, 2019) were; Iceland is very peaceful, never had an army, children can go places freely and play outside without supervision and it is illegal to pay women less than men. Amongst Iceland, Denmark and Finland remained in the top 5 for scoring highest in this factor.
 
 
 
