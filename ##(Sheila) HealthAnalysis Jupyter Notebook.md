@@ -6,30 +6,42 @@
 
 # import dependencies
 
-# define variables and lists for the years covered for analyzation and the year groups tested
-
-# list the categories (factors) which are part of the study
+# define a list of the categories (factors) which are part of the study
 
 # pull in the merged and cleaned files which originally were separate years, 2015, 2016, 2017, 2018, 2019, and 2022
 
 # confirm lack of NaN values before processing
 
-# made a DataFrame with simply the Health Score data to review the data
+# made a DataFrame to support the Projections for the category/factor SOCIAL SUPPORT/FAMILY
 
-# made a DataFrame with simply the Overall Happiness Score data to review the data
+# made a DataFrame to support the Projections for the category/factor SOCIAL SUPPORT/FAMILY
 
-# review the top 5 ranked countries from the averages over the Health Scores from 2015 through 2019
+# made a DataFrame to support the Projections for the category/factor HEALTH for the Healthy Life Expectancy
 
-# review the top 5 ranked countries from the averages over the Health Scores from 2022
+# made a DataFrame to support the Projections for the category/factor FREEDOM
 
-# output just the countries with complete happiness scores throught the years for planned api processing
+# made a DataFrame to support the Projections for the category/factor GOVERNMENT TRUST (Perceptions of Corruption)
 
-# loop through the Health Happiness data for the data sets for 2015-2019 and for 2022 to created scatter plots of the Health vs Overall Happiness Scores
+# made a DataFrame to support the Projections for the category/factor Generosity
 
-## in this loop the r-value, pvalue, and slope intercept is calculated and printed
+### for each of these sections denoted by MarkDown sections in Jupyter Notebook, the following code exists
 
-# last , loop through the Overall Happiness Research, find the top 5 Overall Happy countries for the data sets for 2015-2019 and for 2022
+# create new DataFrames for analysis, projections are made with simple averages over the course of 5 years
 
-## create a bar graph for each one
+## display the current data for years 2015, 2016, 2017, 2018, 2019, 2022
 
-# end of documentation
+## display the projected data for years 2022 1/2, 2023, 2024, 2025, 2026, and our retirement year 2027
+
+## year 2022 1/2 was created to smooth over the missing data from Kaggle for 2020 and 2021 and uses a simple average from the previous 5 years
+
+## created a DataFrame to view the 5 happiest and 5 least happiest for each category/factor
+
+# Created 3 pie charts to plot the following:
+
+## Top 5 Countries in the Full Happiness Study which created scores utilizing more sophisticated algorithms than our project required, display table of teh Top 5 Countries
+
+## Top 5 Countries in the Full Happiness Study aggregated by simply the individual factors (which do not add up to the Overall Happiness Score due to other algorithms applied during the process of analyzing the surveys
+
+##), display the table of the Top 5 Countries
+
+## Final pie chart displays our forecast of the Top 5 Countries to Retire in 2027 with a 5 year forecast over the individual categoeries/factors which we then aggregate for a total
