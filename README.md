@@ -15,27 +15,27 @@ Pulling data from the "World Happiness Report" from "kaggle", we will pull the t
  - [kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download (for 2015-2019 data years))
 
 
-## FAQ
+## Questions To Be Answered From the Analysis
 
-#### Question 1
+#### Question 1: 
+What are the average happiness scores across the years and in what 
+countries? Happiest, middle and least?
 
-What was the motivation?
+#### Question 2: 
+What are the main factors that determine the highest levels of happiness?
 
-#### Question 2
+#### Question 3: 
+Are people happier in the pre or post Covid years?  Why? Why not?
 
-Why did we build this project?
+#### Question 4: 
+Which countries will be the best places to live in the next decade and why? 
 
-#### Question 3
+#### Question 5: 
+Top 10? places to retire in 2023? Forecasted within the next 10 years? By 
+2033?
 
-What problem does it solve?
-
-#### Question 4
-
-What did we learn?
-
-#### Question 5
-
-What makes the project standout?
+#### Question 6: 
+Tie in weather API for retirement places.
 
 
 
