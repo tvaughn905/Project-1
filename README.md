@@ -49,7 +49,8 @@ Economy (GDP)
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Economy2.png" width=40% height=40%>  
 
-With GDP correlation to happiness, it is pretty strong with high GDP countries tending to be happier. Thsi was no surprise and the it is the #factor when considering overall happiness.
+With the help of the team the data was cleaned and merged by years 2015 through 2019, and 2022 and an average was found for each country GDP scores. Averages where calculated and  gouped by 2015 through 2019 and then 2022 was done by itself to check for changes after covid. scatter plots where used to show trends and produce r-values of 0.6542597754829528 for 2015 trough 2019 and 0.614400820625597 for 2022.
+The results of the scatter plots show a strong corelation for how the Economy effected the happiness scores.
                                 
 
 
@@ -109,12 +110,12 @@ merged .csv files that was jointly used by all members of the team.  Duplicate a
 
 
 
-Corruption
+Goverment Trust
 
 <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption1.png" width=40% height=40%>  <img src="https://github.com/tvaughn905/Project-1/blob/main/Figure_File/Coruption2.png" width=40% height=40%>
 
-Government trust has a slight correlation to happiness and that correlation has gone down in 2022.
-With GDP correlation to happiness is pretty strong with high GDP countries tending to be happier.
+With the help of the team the data was cleaned and merged by years 2015 through 2019, and 2022 and an average was found for testing each country rating on Goverment Trust. Averages where calculated and  gouped by 2015 through 2019 and then 2022 was done by itself to check for changes after covid. scatter plots where used to show trends and produce r-values of 0.3211669952184197 for 2015 trough 2019 and 0.25373272657445173 for 2022.
+The results of the scatter plots show a slight corelation for how Goverment Trust effected the happiness scores.
 
 
 
