@@ -4,7 +4,7 @@
 
 # Discovering the Best Places to Retire
 
-Pulling data from the "World Happiness Report" from "kaggle", we will pull the top 5 countries to consider retiring to based on happiness levels considering six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity. This project also considers pre-pandimc and post to output a forecast of the top 5 countries that retained their happiness ranks through one of the most difficult historic times.
+Pulling data from the "World Happiness Report" and "kaggle", we will pull the top 5 countries to consider retiring to based on happiness levels considering six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity. This project also considers pre and post-pandemic to output a forecast of the top 5 countries that retained their happiness ranks through one of the most difficult historic times.
 
 
 ## Acknowledgements
