@@ -136,7 +136,7 @@ Based on the analysis, a forecast was created to output what 5 countries would i
 
 Using "OpenWeatherMap" API, we were able to source a code to create a weather app to be able to look up weather in the top 5 countries real time. This tool can be used daily or seasonal just to get a sense of if the weather can influence the decision to retire in one of these countries.
 
-To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the key from a text file that shuold be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter the country in the text field. The code is located in "Weatherpy" directory and the outcome is below. 
+To use the app, an API key has to be generated from "OpenWeatherMap". The code will import the key from a text file that should be in the same directory as the code file. The code can be ran using Python in both Jupyter Notebook and Visual Studio. Once code is ran, a pop up window appears and user will have to enter the country in the text field. The code is located in "Weatherpy" directory and the outcome is below. 
 
  <img src="https://github.com/tvaughn905/Project-1/blob/main/Images/New_Zealand_2-15-23%20at%201013.PNG" width=50% height=50%>
 
